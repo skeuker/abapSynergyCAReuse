@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZCA_DRF</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>COM message in the context of object replication</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_DRF</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>No previous intialization or change run exists for implementation &apos;&amp;1&apos;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_DRF</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Proxy output for DRF implementation &apos;&amp;1&apos; has more than one root</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_DRF</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Failed to set SOAP message header for technical reasons</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_DRF</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>SOAP message for DRF implementation &apos;&amp;1&apos; has no &apos;MessageHeader&apos; element</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_DRF</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Could not get access to &apos;MessageHeader&apos; in proxy output</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA_DRF</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Could not determine own logical system for client &apos;&amp;1&apos; of system &apos;&amp;2&apos;</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

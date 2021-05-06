@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CUS0" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <CUS0>
+    <HEADER>
+     <ACTIVITY>ZCA_V_DEBUG</ACTIVITY>
+     <DOCU_ID>SIMGZCA_V_DEBUG</DOCU_ID>
+     <C_ACTIVITY>ZCA_V_DEBUG</C_ACTIVITY>
+     <TCODE>Y_S4D_21000009</TCODE>
+    </HEADER>
+    <TEXTS>
+     <CUS_IMGACT>
+      <SPRAS>E</SPRAS>
+      <ACTIVITY>ZCA_V_DEBUG</ACTIVITY>
+      <TEXT>Debugging Control</TEXT>
+     </CUS_IMGACT>
+    </TEXTS>
+   </CUS0>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_CA_DRF_HELPER</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>COM Data Replication Framework (DRF) helper class</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_DRF_HELPER</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Constructor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_DRF_HELPER</CLSNAME>
+     <CMPNAME>GC_PARAM_COL_HEADINGS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Text (20 Characters)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_DRF_HELPER</CLSNAME>
+     <CMPNAME>GC_PARAM_FILE_PREFIX</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Text (20 Characters)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_DRF_HELPER</CLSNAME>
+     <CMPNAME>GC_PARAM_MSG_QUALIF</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Text (20 Characters)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_DRF_HELPER</CLSNAME>
+     <CMPNAME>GC_PARAM_PACK_SIZE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Text (20 Characters)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_DRF_HELPER</CLSNAME>
+     <CMPNAME>GET_CHANGE_PERIOD</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get change period</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_DRF_HELPER</CLSNAME>
+     <CMPNAME>GET_FILE_NAME</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Derive file name</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_DRF_HELPER</CLSNAME>
+     <CMPNAME>GET_FILE_NAME_WITH_DETAIL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Derive file name with a bit more detail</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_DRF_HELPER</CLSNAME>
+     <CMPNAME>GET_LAST_RUNPARAMS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get parameters of last run</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_DRF_HELPER</CLSNAME>
+     <CMPNAME>MD_MESSAGE_COUNTER</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Counter of messages sent so far in this transmission</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_DRF_HELPER</CLSNAME>
+     <CMPNAME>MD_TOTALMSG_COUNT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Total number of messages in transmission</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_DRF_HELPER</CLSNAME>
+     <CMPNAME>SET_MESSAGEHEADER</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Set message header</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_DRF_HELPER</CLSNAME>
+     <CMPNAME>SET_SOAP_MESSAGEHEADER</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Set SOAP message header in proxy message</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
